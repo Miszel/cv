@@ -50,7 +50,7 @@ Methodologies: 	Agile (SCRUM) • Test-Driven Development • Kanban
   <summary>Sample details about duties and challegnes</summary>
   
   #### Saint Gobain Project
-  <br/>- Successfully implemented payment systems using Verifone.
+  - Successfully implemented payment systems using Verifone.
   - Analyzed and resolved payment-related issues caused by Verifone's non-compliant implementation that had discrepancies due to data latency in distributed data centers.
   - Implemented complex tax calculation algorithms that accommodated various promotions.
   - Assumed the role of technical leader.
