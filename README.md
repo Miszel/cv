@@ -27,6 +27,14 @@ Area of responsibility: 	software development • software maintenance • busin
 Main technologies: 	JavaScript • Typescript • Java SE • AWS • Elasticsearch • Node.js
 Other technologies: 	GitLab • Docker • Microservices • MongoDB
 Methodologies: 	Agile (SCRUM) • Test-Driven Development
+<details>
+  <summary>Sample details about duties and challenges</summary>
+  - Developed and maintained search-related features without prior knowledge of Elasticsearch.
+  - Successfully fixed a non-backward-compatible data model and conducted migration tasks.
+  - Implemented a solution adding attributes for appropriate ad displays.
+  - Conducted analysis and created a proof of concept for an alternative OTP providers.
+  - Undertook a code refactor for flexible configuration delivery.
+</details>
 
 ### ECLIPSE GROUP SOLUTIONS • Wrocław • 2016 - 2022
 British company specializing in creating stylish, modern websites, web services, and online stores
@@ -37,6 +45,35 @@ Area of responsibility: 	technical leadership • software development • softw
 Main technologies: 	Java SE • Spring • SAP Commerce (formerly Hybris)
 Other technologies: 	Node.js • JavaScript • Augmented Reality (AR) • REST Web Services • JUnit • Mockito • XML • JSON • Git  • Jenkins  •  AWS • Azure • Docker
 Methodologies: 	Agile (SCRUM) • Test-Driven Development • Kanban
+<details>
+  <summary>Sample details about duties and challegnes</summary>
+  #### Saint Gobain Project
+  - Successfully implemented payment systems using Verifone.
+  - Analyzed and resolved payment-related issues caused by Verifone's non-compliant implementation that had discrepancies due to data latency in distributed data centers.
+  - Implemented complex tax calculation algorithms that accommodated various promotions.
+  - Assumed the role of technical leader.
+  - Found and implemented a solution for a complex payment issue, demonstrating the solution's correctness and effectiveness against future problems despite resistance to automated testing.
+  - After scaling the team to three, worked closely with other teams.
+  - Proposed iterative approaches for implementing user stories, creating e2e user stories using mock-ups or hardcoded values in the initial iterations.
+  #### Wacoal Project
+  - Tasked with taking over an existing codebase, preserving the B2B functionality, and rewriting the incomplete B2C portion from the previous provider.
+  - Successfully managed a newly formed team, quickly delivering functionalities and efficiently dividing responsibilities.
+  - Coordinated tasks for a rapidly growing team.
+  - Minimized meeting times and adapted to flexible team planning methods to deliver high amounts of functionality in a short time.
+  - Demonstrated flexible team planning (feature streams, use of paper cards for progress visualization).
+  #### GHD Project
+  - Tasked with building a new version of a website from scratch, maintaining the functionality of the old code.
+  - Despite the team's determination, many project goals were unrealistic and lacked prioritization. The project ultimately failed.
+  ### AR Project
+  - Needed to familiarize myself with AWS architecture and the components of its ecosystem.
+  - Designed a solution for communication between system elements.
+  ### HRGO Projects
+  - Developed backend code for a UK recruitment company's website.
+  - Implemented business logic for sending tailored emails to job candidates.
+  - Created an Azure function to convert HTML templates and image files into populated PDF documents.
+  - Conducted a proof of concept for client payment optimization (using Revolut).
+  - Implemented various small tool features.
+</details>
 
 ### NOKIA • Wrocław • 2011 - 2015
 Finnish multinational communications and information technology company focused on large-scale telecommunications infrastructures 
