@@ -29,6 +29,7 @@ Other technologies: 	GitLab • Docker • Microservices • MongoDB
 Methodologies: 	Agile (SCRUM) • Test-Driven Development
 <details>
   <summary>Sample details about duties and challenges</summary>
+  
   - Developed and maintained search-related features without prior knowledge of Elasticsearch.
   - Successfully fixed a non-backward-compatible data model and conducted migration tasks.
   - Implemented a solution adding attributes for appropriate ad displays.
@@ -47,8 +48,9 @@ Other technologies: 	Node.js • JavaScript • Augmented Reality (AR) • REST 
 Methodologies: 	Agile (SCRUM) • Test-Driven Development • Kanban
 <details>
   <summary>Sample details about duties and challegnes</summary>
+  
   #### Saint Gobain Project
-  - Successfully implemented payment systems using Verifone.
+  <br/>- Successfully implemented payment systems using Verifone.
   - Analyzed and resolved payment-related issues caused by Verifone's non-compliant implementation that had discrepancies due to data latency in distributed data centers.
   - Implemented complex tax calculation algorithms that accommodated various promotions.
   - Assumed the role of technical leader.
@@ -64,10 +66,10 @@ Methodologies: 	Agile (SCRUM) • Test-Driven Development • Kanban
   #### GHD Project
   - Tasked with building a new version of a website from scratch, maintaining the functionality of the old code.
   - Despite the team's determination, many project goals were unrealistic and lacked prioritization. The project ultimately failed.
-  ### AR Project
+  #### AR Project
   - Needed to familiarize myself with AWS architecture and the components of its ecosystem.
   - Designed a solution for communication between system elements.
-  ### HRGO Projects
+  #### HRGO Projects
   - Developed backend code for a UK recruitment company's website.
   - Implemented business logic for sending tailored emails to job candidates.
   - Created an Azure function to convert HTML templates and image files into populated PDF documents.
